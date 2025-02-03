@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **jonas.bergstedt@iths.se**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/jonas-bergstedt-a0802919/](https://www.linkedin.com/in/jonas-bergstedt-a0802919/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/jonas-bergstedt/](https://www.linkedin.com/in/jonas-bergstedt)
 
 - ⚡ Fun fact **Bringing a new low to the concepts of playing chess and golf (not necessarily at the simultaneously, although that prolly wouldn't make any of them worse)**
 
