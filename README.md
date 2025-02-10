@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jonas Bergstedt</h1>
 <h3 align="center">A remote student at IT-Högskolan, Sweden, class ITST24</h3>
 
-- 🔭 I’m currently working on [Projektet](https://github.com/SweJob/Projektet.git)
+- 🔭 I’m currently working on **Defacing Ninja Hack Acadamy**
 
-- 🌱 I’m currently learning **python and pentesting libs**
+- 🌱 I’m currently learning **Hacking Active Directory**
 
 - 📫 How to reach me **jonas.bergstedt@iths.se**
 
