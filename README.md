@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **Defacing Ninja Hack Acadamy**
 
-- 🌱 I’m currently learning **Hacking Active Directory**
+- 🌱 I’m currently learning **Hacking & Vulnerability analysis**
 
 - 📫 How to reach me **jonas.bergstedt@iths.se**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/jonas-bergstedt/](https://www.linkedin.com/in/jonas-bergstedt)
 
-- ⚡ Fun fact **Bringing a new low to the concepts of playing chess and golf (not necessarily at the simultaneously, although that prolly wouldn't make any of them worse)**
+- ⚡ Fun fact **Bringing a new low to the concepts of playing chess and golf (not necessarily simultaneously, although that prolly wouldn't make any of them worse)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
